@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 抓取结果（不提交）
+data/
+*.xlsx
+
+# 系统文件
+.DS_Store
+Thumbs.db
